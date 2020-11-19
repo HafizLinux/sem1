@@ -1,1 +1,1 @@
-# sem1
+# semester 1

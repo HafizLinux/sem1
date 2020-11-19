@@ -1,5 +1,5 @@
 # semester 1
 
-Program pascal ini dikerjakan oleh anak jalantah, eh jalanan.
-selamat menikmati.
-tolong koreksi karena banyak yang salah
+This is Pascal program is done by a used child,
+Enjoy.
+Please correct because many are wrong
